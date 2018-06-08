@@ -7,4 +7,8 @@ class Dog
   def name
     return @name
   end
+
+  def bark
+    return "Meow!"
+  end
 end

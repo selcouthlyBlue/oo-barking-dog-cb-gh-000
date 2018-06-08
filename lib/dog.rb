@@ -9,7 +9,7 @@ class Dog
   end
 
   def bark
-    return "woof!"
+    puts "woof!"
   end
 end
 

@@ -12,3 +12,7 @@ class Dog
     return "Meow!"
   end
 end
+
+cat = Dog.new
+cat.name = "Cat"
+cat.bark 

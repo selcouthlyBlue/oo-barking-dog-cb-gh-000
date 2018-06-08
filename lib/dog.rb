@@ -9,10 +9,10 @@ class Dog
   end
 
   def bark
-    return "Meow!"
+    return "woof!"
   end
 end
 
 cat = Dog.new
 cat.name = "Cat"
-cat.bark 
+cat.bark
